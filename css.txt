@@ -1,0 +1,12 @@
+	.header{
+margin-top: 0%;
+width: 100%;
+padding: 50px;
+background: blue;
+}
+	.footer{
+margin-top: 30%;
+width: 100%;
+padding: 50px;
+background: blue;	
+}
